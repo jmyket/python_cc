@@ -1,0 +1,11 @@
+prefix=/home/jmyket/coding_projects/python_cc/envs
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/home/jmyket/coding_projects/python_cc/envs/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

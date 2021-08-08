@@ -1,0 +1,4 @@
+In Python you can read a file's contents.
+In Python you can read a file line by line.
+In Python you can read very large files quickly.
+In Python you can become Immortal.
